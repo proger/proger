@@ -10,3 +10,5 @@ Now I'm building a speech agent: https://wandb.ai/stud76/rnnlm/reports/haloop-on
 Projects:
 
 - `pip install world-model`: Learning from simulation by predicting the next frame and action: https://github.com/proger/world-model
+
+I write notes in my blog, https://proger.github.io
