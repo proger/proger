@@ -9,6 +9,7 @@ Now I'm building a speech agent to train from noisy data: https://wandb.ai/stud7
 
 Projects:
 
+- `pip install accelerated-scan`: Accelerated Scan is a high-performance GPU implementation of the first order associative scan for Torch
 - `pip install world-model`: Learning from simulation by predicting the next frame and action: https://github.com/proger/world-model
 
 I write notes in my blog, https://proger.github.io
