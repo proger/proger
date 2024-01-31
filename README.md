@@ -1,4 +1,4 @@
-![image](https://github.com/proger/proger/assets/66214/3c125547-1edd-4c6d-8bc8-2d22206a5f8d)### Hi there 👋
+### Hi there 👋
 
 New: [Accelerated Scan](https://twitter.com/darkproger/status/1745041586394648975) is a high-performance GPU implementation of the first order associative scan for Torch.
 
@@ -14,3 +14,5 @@ Projects:
 - `pip install haloop`: a [speech recognition](https://wandb.ai/stud76/rnnlm/reports/haloop-on-LibriSpeech--Vmlldzo0MDgzMTQw) and language modelling toolkit for noisy data
 
 I write notes in my blog, https://proger.github.io
+
+![image](https://github.com/proger/proger/assets/66214/3c125547-1edd-4c6d-8bc8-2d22206a5f8d)
