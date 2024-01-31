@@ -1,4 +1,6 @@
-### Hi there 👋
+![image](https://github.com/proger/proger/assets/66214/3c125547-1edd-4c6d-8bc8-2d22206a5f8d)### Hi there 👋
+
+New: [Accelerated Scan](https://twitter.com/darkproger/status/1745041586394648975) is a high-performance GPU implementation of the first order associative scan for Torch.
 
 I study Artificial Intelligence. Check out my latest [published work](https://scholar.google.com/citations?user=03tssc4AAAAJ):
 
@@ -7,7 +9,7 @@ I study Artificial Intelligence. Check out my latest [published work](https://sc
 
 Projects:
 
-- `pip install accelerated-scan`: Accelerated Scan is a high-performance GPU implementation of the first order associative scan for Torch
+- `pip install accelerated-scan`
 - `pip install world-model`: Learning from simulation by predicting the next frame and action: https://github.com/proger/world-model
 - `pip install haloop`: a [speech recognition](https://wandb.ai/stud76/rnnlm/reports/haloop-on-LibriSpeech--Vmlldzo0MDgzMTQw) and language modelling toolkit for noisy data
 
