@@ -13,6 +13,6 @@ Projects:
 - `pip install world-model`: Learning from simulation by predicting the next frame and action: https://github.com/proger/world-model
 - `pip install haloop`: a [speech recognition](https://wandb.ai/stud76/rnnlm/reports/haloop-on-LibriSpeech--Vmlldzo0MDgzMTQw) and language modelling toolkit for noisy data
 
-I write notes in my blog, https://proger.github.io
+I write notes in my blog, https://proger.github.io. Check out my notes on [Bayesian Flow Networks](https://proger.github.io/posts/bfn/normal.html)
 
 ![image](https://github.com/proger/proger/assets/66214/3c125547-1edd-4c6d-8bc8-2d22206a5f8d)
