@@ -6,7 +6,7 @@ I study Artificial Intelligence. Check out my latest [published work](https://sc
 
 - GPT-2 Metadata Pretraining Towards Instruction Finetuning for Ukrainian ([UNLP 2023](https://unlp.org.ua)). https://github.com/proger/uk4b
 - Re: VAE Approximation Error: ELBO and Exponential Families ([ReScience C](https://zenodo.org/record/8173745), [Tweet](https://twitter.com/darkproger/status/1691755047145673029), [NeurIPS 2023 Journal Track Poster](https://nips.cc/virtual/2023/events/journal_track_2023)). https://github.com/proger/vae
-- Setting up the Data Printer with Improved English to Ukrainian Machine Translation [Paper](https://arxiv.org/abs/2404.15196) [Model](https://huggingface.co/lang-uk/dragoman)
+- Setting up the Data Printer with Improved English to Ukrainian Machine Translation (UNLP 2024) [Paper](https://arxiv.org/abs/2404.15196) [Model](https://huggingface.co/lang-uk/dragoman)
 
 Projects:
 
