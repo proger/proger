@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-New: [gpt-oss](https://github.com/openai/gpt-oss) is a leading reasoning language model.
+New: [gpt-oss](https://github.com/openai/gpt-oss) is an open leading reasoning language model.
 
 I study Artificial Intelligence. Check out my [published work](https://scholar.google.com/citations?user=03tssc4AAAAJ):
 
