@@ -2,8 +2,6 @@
 
 New: [gpt-oss](https://github.com/openai/gpt-oss) is a leading reasoning language model.
 
-[Accelerated Scan](https://twitter.com/darkproger/status/1745041586394648975) is a high-performance GPU implementation of the first order associative scan for Torch.
-
 I study Artificial Intelligence. Check out my [published work](https://scholar.google.com/citations?user=03tssc4AAAAJ):
 
 - GPT-2 Metadata Pretraining Towards Instruction Finetuning for Ukrainian ([UNLP 2023](https://unlp.org.ua) with Dmytro Chaplynskyi). https://github.com/proger/uk4b
@@ -12,7 +10,7 @@ I study Artificial Intelligence. Check out my [published work](https://scholar.g
 
 Projects:
 
-- `pip install accelerated-scan`
+- `pip install accelerated-scan`: [Accelerated Scan](https://twitter.com/darkproger/status/1745041586394648975) is a high-performance GPU implementation of the first order associative scan for Torch.
 - `pip install world-model`: Learning from simulation by predicting the next frame and action: https://github.com/proger/world-model
 - `pip install haloop`: a [speech recognition](https://wandb.ai/stud76/rnnlm/reports/haloop-on-LibriSpeech--Vmlldzo0MDgzMTQw) and language modelling toolkit for noisy data
 
